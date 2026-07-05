@@ -12,9 +12,8 @@ and save recruitment costs.
 ## Tools Used
 -Excel(for collecting dataset)
 - Python (Pandas, Matplotlib, Seaborn) — EDA
-- MySQL — Data querying
+- SQL (SQLite) — Data querying
 - Power BI — Interactive dashboard
-- 
 ## Key Findings
 1. Overall attrition rate: 16.1%
 2. Sales Representatives: 40% attrition (highest)
@@ -29,8 +28,11 @@ and save recruitment costs.
 📁 powerbi/ — Power BI dashboard file
 
 ## Dashboard Preview
+### Page 1 — Executive Summary
 <img width="1167" height="666" alt="Screenshot 2026-07-05 092202" src="https://github.com/user-attachments/assets/bcb287a7-6848-49e2-b035-f9c47786c84a" />
+### Page 2 — Demographics
 <img width="1168" height="666" alt="Screenshot 2026-07-05 092212" src="https://github.com/user-attachments/assets/ce956091-2b2a-421e-ad08-65686e551a8c" />
+### Page 3 — Job Factors
 <img width="1167" height="667" alt="Screenshot 2026-07-05 092224" src="https://github.com/user-attachments/assets/033b5835-fa5f-4b3c-801a-d8b9639a56d7" />
 
 ## How to Run
